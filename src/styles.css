@@ -1,0 +1,81 @@
+h1,
+h2,
+h3 {
+  color: rgb(21, 101, 192);
+  font-family: "Raleway", sans-serif;
+}
+.day {
+  color: rgb(66, 66, 66);
+  font-size: 22px;
+  text-align: center;
+}
+.icon {
+  font-size: 42px;
+  text-align: center;
+  color: rgb(255, 183, 77);
+}
+.temperature {
+  color: rgb(66, 66, 66);
+  font-size: 22px;
+  text-align: center;
+}
+.week {
+  border-radius: 10px;
+  border: 3px solid rgba(21, 101, 192);
+  padding: 10px;
+  margin: 10px;
+}
+.radar {
+  background: rgba(79, 195, 247, 0.515);
+  border-radius: 10px;
+  border: 3px solid rgba(21, 101, 192);
+  padding: 10px;
+  margin: 10px;
+}
+.current-city {
+  border-radius: 10px;
+  border: 3px solid rgba(21, 101, 192);
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+.weather-info {
+  border-radius: 10px;
+  border: 3px solid rgba(21, 101, 192);
+  padding: 32px;
+  margin: 10px;
+}
+.weather-detail {
+  color: rgb(66, 66, 66);
+  text-align: center;
+}
+.city-detail {
+  color: rgb(66, 66, 66);
+  font-size: 35px;
+}
+.city-temperature {
+  color: rgb(66, 66, 66);
+  font-size: 45px;
+}
+i,
+.fas fa-sun {
+  color: rgb(255, 183, 77);
+}
+
+.current-time {
+  border-radius: 10px;
+  border: 3px solid rgba(21, 101, 192);
+  padding: 5px;
+  margin-left: 170px;
+  margin-right: 10px;
+  margin-top: 5px;
+  text-align: center;
+  background: rgba(79, 195, 247, 0.515);
+}
+.fa-chevron-circle-right {
+  font-size: 38px;
+  color: rgb(21, 101, 192);
+}
+.arrow-right {
+  text-align: right;
+}
